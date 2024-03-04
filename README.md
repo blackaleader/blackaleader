@@ -6,7 +6,7 @@ Hi, I'm [Your Name]! Welcome to my GitHub profile.
 
 ## Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=your_username)
+![Profile Views](https://komarev.com/ghpvc/?username=blackaleader)
 
 ## Skills
 
