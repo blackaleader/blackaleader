@@ -15,12 +15,10 @@ Hi, I'm [Your Name]! Welcome to my GitHub profile.
 - HTML
 - CSS
 
-## Projects
 
-- [Project 1](link_to_project_1): Description of project 1.
-- [Project 2](link_to_project_2): Description of project 2.
+## My Skills and Tools & Software I Use
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,cloudflare,discord,github,git)
 
 ## Contact Me
 
-- Email: your.email@example.com
 - LinkedIn: [Arman A](https://www.linkedin.com/in/yourprofile/)
