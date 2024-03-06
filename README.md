@@ -9,7 +9,11 @@ Hi, I'm Arman! Welcome to my GitHub profile.
 ![Profile Views](https://komarev.com/ghpvc/?username=blackaleader)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackaleader&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackaleader&layout=compact&theme=buefy&hide_border=true" />
+</a>
+
+<img align="center" src="https://github.com/blackaleader/blackaleader/blob/main/redrose.gif?raw=true" style="display: inline-block;">
 
 
 ## Skills
