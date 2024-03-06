@@ -1,0 +1,6 @@
+{
+    "workbench.editorAssociations": {
+        "*.mo": "default",
+        "*.dll": "default"
+    }
+}
