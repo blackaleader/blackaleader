@@ -1,7 +1,5 @@
 # My GitHub Profile
 
-![Profile Picture](profile_picture.jpg)
-
 Hi, I'm Arman! Welcome to my GitHub profile.
 
 ## Profile Views
