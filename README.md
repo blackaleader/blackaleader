@@ -10,14 +10,10 @@ Hi, I'm Arman! Welcome to my GitHub profile.
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackaleader&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
-## Skills
-
-- Python
-- JavaScript
 
 
 ## My Skills and Tools & Software I Use
-![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,cloudflare,discord,github,git,py,mysql)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,cloudflare,discord,github,git,py,mysql,react,stackoverflow,tailwind,)
 
 <!-- ## Contact Me
 
